@@ -1,0 +1,17 @@
+{
+"companyName": "DDVR1",
+"productName": "Art_Gallery",
+"productVersion": "0.1",
+"dataUrl": "b1webGL.data.unityweb",
+"wasmCodeUrl": "b1webGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "b1webGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "b1webGL.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
