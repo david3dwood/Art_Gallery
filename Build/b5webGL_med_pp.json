@@ -1,0 +1,17 @@
+{
+"companyName": "DDVR1",
+"productName": "Wood Digital Gallery",
+"productVersion": "b0.5",
+"dataUrl": "b5webGL_med_pp.data.unityweb",
+"wasmCodeUrl": "b5webGL_med_pp.wasm.code.unityweb",
+"wasmFrameworkUrl": "b5webGL_med_pp.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "b5webGL_med_pp.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
